@@ -1,0 +1,10 @@
+debug/operator.o
+debug/relational_operator.o
+debug/parser.o
+debug/rpn.o
+debug/record.o
+debug/stokenizer.o
+debug/table.o
+debug/token.o
+debug/shunting_yard.o
+debug/main.o

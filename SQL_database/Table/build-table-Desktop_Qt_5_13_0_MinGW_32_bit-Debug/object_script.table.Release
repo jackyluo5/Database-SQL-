@@ -1,0 +1,10 @@
+release/operator.o
+release/relational_operator.o
+release/parser.o
+release/rpn.o
+release/record.o
+release/stokenizer.o
+release/table.o
+release/token.o
+release/shunting_yard.o
+release/main.o
